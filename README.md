@@ -1,2 +1,2 @@
 # hello-world
-say hello 
+say hello to the world. Now say bye to the world.
